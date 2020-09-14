@@ -6,12 +6,19 @@
 ## Project setup instructions
 To start using this project use the following commands:
 
-- `git clone https://github.com/WinnieAnyoso/week3-IP.git`
+- `git clone https://github.com/WinnieAnyoso/R_Supervised-and-unsupervised.git`
 - `atom .`
 - `code .` [//]: # (this is if Visual Studio Code is your preferred text editor)
 
-## overview
+## Overview
+
 ### Part 1
+
+In the recent past there has been an increase in the number of online click ads. This is because website owners and bloggers have realised that they could actually make money from the number of clicks on the ads they choose to advertise on their websites. 
+
+It is therefore necessary to create content that would be a target audience's preferance in order to get them to their website(blog) and hopefully get them to click on the ads displayed. 
+
+We are tasked as data experts to work with  Kenyan entrepreneur, who has created an online cryptography course and would want to advertise it on her blog,to help her identify which individuals are most likely to click on her ads.. She currently targets audiences originating from various countries. In the past, she ran ads to advertise a related course on the same blog and collected data in the process.
 
 ### Part 2
 
