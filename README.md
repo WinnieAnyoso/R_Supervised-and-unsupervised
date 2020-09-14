@@ -1,13 +1,19 @@
 # R_Supervised-and-unsupervised
 
-## Overview
+## Author
+- [WinnieAnyoso](https://github.com/WinnieAnyoso)
+
+## Project setup instructions
+To start using this project use the following commands:
+
+- `git clone https://github.com/WinnieAnyoso/week3-IP.git`
+- `atom .`
+- `code .` [//]: # (this is if Visual Studio Code is your preferred text editor)
+
+## overview
 ### Part 1
 
-
-# Part 2
-
-
-
+### Part 2
 
 
 
